@@ -1,0 +1,5 @@
+modelo,cv_media,cv_desv,prueba
+Elastic Net,0.7488,0.0056,0.7581
+Random Forest,0.7466,0.0061,0.7527
+XGBoost,0.7562,0.005,0.7639
+LightGBM,0.75,0.0053,0.7602
